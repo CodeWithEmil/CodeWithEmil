@@ -16,10 +16,8 @@ Here are some things you should know about me:
    <br />
 
 I haven't really added any of my projects here, but will begin to add them really soon (most of them were made when I knew nothing about Git, so there's no commits...).
-
    <br />
    <br />
-   
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
 <!--- 🌱 I’m currently learning VueJS, but I love to work with React
