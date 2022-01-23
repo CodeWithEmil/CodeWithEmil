@@ -2,6 +2,7 @@
 
 
 Hey! I’m Emil (CodeWithEmil) 👋 
+   <br />
 Here are some things you should know about me:
    <br />
    <li>13 y/o</li>
@@ -13,7 +14,7 @@ Here are some things you should know about me:
 - 📫 Find me on social media as CodeWithEmil.-->
    <br />
 I haven't really added any of my projects here, but will begin to add them really soon (most of them were made when I knew nothing about Git, so there's no commits...).
-
+   <br />
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
 <!---
