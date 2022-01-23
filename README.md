@@ -5,17 +5,26 @@ Hey! I’m Emil (CodeWithEmil) 👋
    <br />
 Here are some things you should know about me:
    <br />
-   <li>13 y/o</li>
-   <li>Full Stack Web Developer</li>
-   <li>I'm an Instagram-based content creator, focused on Web Development</li>
-   <li>I’m interested in coding, learning languages, and playing the guitar!</li>
+   
+   <ul>
+      <li>13 y/o</li>
+      <li>Full Stack Web Developer</li>
+      <li>I'm an Instagram-based content creator, focused on Web Development</li>
+      <li>I’m interested in coding, learning languages, and playing the guitar!</li>
+   </ul>
+   
+   <br />
+
+I haven't really added any of my projects here, but will begin to add them really soon (most of them were made when I knew nothing about Git, so there's no commits...).
+
+   <br />
+   <br />
+   
+I really hope we can hang out well. Thanks for reading! 🚀 🌎
+
 <!--- 🌱 I’m currently learning VueJS, but I love to work with React
 - 💞️ I’m looking to collaborate on every project you give me the opportunity to :D
 - 📫 Find me on social media as CodeWithEmil.-->
-   <br />
-I haven't really added any of my projects here, but will begin to add them really soon (most of them were made when I knew nothing about Git, so there's no commits...).
-   <br />
-I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
 <!---
 CodeWithEmill/CodeWithEmill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
