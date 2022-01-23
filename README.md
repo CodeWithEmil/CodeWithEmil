@@ -3,7 +3,7 @@
 
 👋 Hey! I’m Emil (CodeWithEmil)
    Here are some things you should know about me:
- · 13 y/o
+<li> · 13 y/o</li>
  · Full Stack Web Developer
  · I'm an Instagram-based content creator, focused on Web Development
  · I’m interested in coding, learning languages, and playing the guitar!
