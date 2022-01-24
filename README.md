@@ -15,7 +15,20 @@ Here are some things you should know about me:
    
    <br />
 
-I haven't really added any of my projects here, but will begin to add them really soon (most of them were made when I knew nothing about Git, so there's no commits...).
+
+<hr />
+
+<h2>About Emil</h2>
+<ul>
+   
+   <li>Two times chess state-champion</li>
+   <li></li>
+   
+</ul>
+<hr />
+
+
+
    <br />
    <br />
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
