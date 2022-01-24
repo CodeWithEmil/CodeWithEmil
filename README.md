@@ -26,9 +26,9 @@ Here are some things you should know about me:
    
 </ul>
 <hr />
--->
+
    <br />
-   <br />
+   <br />-->
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
 <!--- 🌱 I’m currently learning VueJS, but I love to work with React
