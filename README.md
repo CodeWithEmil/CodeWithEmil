@@ -15,7 +15,7 @@ Here are some things you should know about me:
    
    <br />
 
-
+<!---
 <hr />
 
 <h2>About Emil</h2>
@@ -26,7 +26,7 @@ Here are some things you should know about me:
    
 </ul>
 <hr />
-
+-->
 
 
    <br />
