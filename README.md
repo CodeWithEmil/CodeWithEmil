@@ -7,7 +7,7 @@ Here are some things you should know about me:
    <br />
    
    <ul>
-      <li>13 y/o</li>
+      <li>14y/o</li>
       <li>Full Stack Web Developer</li>
       <li>I'm an Instagram-based content creator, focused on Web Development</li>
       <li>I’m interested in coding, learning languages, and playing the guitar!</li>
