@@ -12,9 +12,7 @@ Here are some things you should know about me:
       <li>I'm an Instagram-based content creator, focused on Web Development</li>
       <li>I’m interested in coding, learning languages, and playing the guitar!</li>
    </ul>
-   
-   <br />
-
+  
 
 <hr />
 
@@ -26,9 +24,9 @@ Here are some things you should know about me:
    <li>2 years of experience in web dev</li>
    
 </ul>
+
 <hr />
 
-   <br />
    <br />
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
