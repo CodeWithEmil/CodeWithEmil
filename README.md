@@ -20,8 +20,9 @@ Here are some things you should know about me:
 <ul>
    
    <li>Two times chess state-champion</li>
-   <li>+1k Instagram Audience</li>
+   <li>+1k Instagram, +200 Twitter Audiences</li>
    <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
+   <li>Constantly building and learning with useful technologies</li>
    
 </ul>
 
