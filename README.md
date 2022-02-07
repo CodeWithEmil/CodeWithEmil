@@ -23,7 +23,7 @@ Here are some things you should know about me:
    <li>+1k Instagram, +200 Twitter Audiences</li>
    <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
    <li>Constantly building and learning with useful technologies</li>
-   <li>Spanish-Music Lover!</li>
+   <li>Spanish-Music Lover! (Soda Stereo</li>
    
 </ul>
 
