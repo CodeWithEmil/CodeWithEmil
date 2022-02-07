@@ -23,6 +23,7 @@ Here are some things you should know about me:
    <li>+1k Instagram, +200 Twitter Audiences</li>
    <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
    <li>Constantly building and learning with useful technologies</li>
+   <li>Spanish Music Lover!</li>
    
 </ul>
 
@@ -30,11 +31,3 @@ Here are some things you should know about me:
 <br />
 I really hope we can hang out well. Thanks for reading! 🚀 🌎
 
-<!--- 🌱 I’m currently learning VueJS, but I love to work with React
-- 💞️ I’m looking to collaborate on every project you give me the opportunity to :D
-- 📫 Find me on social media as CodeWithEmil.-->
-
-<!---
-CodeWithEmill/CodeWithEmill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
