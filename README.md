@@ -16,7 +16,7 @@ Here are some things you should know about me:
 
 <hr />
 
-<h2>About Emil</h2>
+<h2>About Emil 🥑</h2>
 <ul>
    
    <li>Two times chess state-champion</li>
