@@ -30,5 +30,5 @@ Here are some things you should know about me:
 <hr />
 <br />
 I really hope we can hang out well!
-Thanks for reading, a! 🚀 🌎
+Thanks for reading, and! 🚀 🌎
 
