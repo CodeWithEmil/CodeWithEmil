@@ -3,7 +3,7 @@
 
 Hey! I’m Emil (@CodeWithEmil) 👋 
    <br />
-Here are some things you should know about me:
+Here are som things you should know about me:
    <br />
    
    <ul>
