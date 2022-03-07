@@ -29,7 +29,7 @@ Here are some things you should know about me:
 </ul>
 
 <hr />
-<h2>Wh</h2>
+<h2>Wha</h2>
 <hr />
 <br />
 I really hope we can hang out well!
