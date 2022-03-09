@@ -29,7 +29,7 @@ Here are some things you should know about me:
 </ul>
 
 <hr />
-<h2>What is people thinki</h2>
+<h2>What is people thinkin</h2>
 <hr />
 <br />
 I really hope we can hang out well!
