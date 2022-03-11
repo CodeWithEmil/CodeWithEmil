@@ -32,10 +32,10 @@ Here are some things you should know about me:
 <h2>What is people thinking on Emil</h2>
    <ul>
       <li>
-         <h3>"Amazing for a 13 year-old"</h3><i>–Cristela de la Rosa, Mexico</i>
+         <h3>"Amazing for a 13 year-old"</h3><i>–Cristela, Mexico</i>
       </li>
       <li>
-         <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel Nájera, Houston, Texas, US</i>
+         <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel, Houston, Texas, US</i>
       </li>
       <li>
          <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Los Ángeles, Texas, US</i>
