@@ -30,6 +30,7 @@ Here are some things you should know about me:
 
 <hr />
 <h2>What is people thinking on Emil</h2>
+   <li>
 <hr />
 <br />
 I really hope we can hang out well!
