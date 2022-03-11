@@ -38,7 +38,7 @@ Here are some things you should know about me:
          <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel Nájera, Houston, Texas, US</i>
       </li>
       <li>
-         <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Houston, Texas, US</i>
+         <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Los Ángeles, Texas, US</i>
       </li>
    </ul>
 <hr />
