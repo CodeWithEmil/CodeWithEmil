@@ -30,7 +30,7 @@ Here are some things you should know about me:
 
 <hr />
 <h2>What is people thinking on Emil</h2>
-   <li><<h3>"Amazing for a 13 year-old"</h3><br><i>–Cristela de la Rosa, Mexico</i></li>
+   <li><h3>"Amazing for a 13 year-old"</h3><br><i>–Cristela de la Rosa, Mexico</i></li>
 <hr />
 <br />
 I really hope we can hang out well!
