@@ -35,7 +35,7 @@ Here are some things you should know about me:
          <h3>"Amazing for a 13 year-old"</h3><i>–Cristela, Mexico City, Mexico 🇲🇽</i>
       </li>
       <li>
-         <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel, Houston, Texas, US 🇺🇸</i>
+         <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel, Houston, Texas, USA 🇺🇸</i>
       </li>
       <li>
          <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Los Ángeles, California, USA 🇺🇸</i>
