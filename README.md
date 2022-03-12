@@ -38,7 +38,7 @@ Here are some things you should know about me:
          <h3>"An inspiration for the community. With so many projects and stuff available, he's one of my first options when it comes to web development."</h3><i>–Israel, Houston, Texas, US 🇺🇸</i>
       </li>
       <li>
-         <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Los Ángeles, California, US 🇺🇸</i>
+         <h3>"Simply amazing in both, spiritual and emotional status."</h3><i>–Diego, Los Ángeles, California, USA 🇺🇸</i>
       </li>
       <li>
          <h3>"I think the works he has done are just awesome! Creative, simple and interactive. What else could we ask for?"</h3><i>–Martina, Sevilla, Sevilla, Spain 🇪🇸</i>
