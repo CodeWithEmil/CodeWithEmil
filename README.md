@@ -49,6 +49,7 @@ Here are some things you should know about me:
 <ul></ul>
 
 <hr />
+<h2>Technologies</h2>
 <br />
 I really hope we can hang out well!
 Thanks for reading, and happy coding! 🚀 🌎
