@@ -45,6 +45,8 @@ Here are some things you should know about me:
       </li>
    </ul>
 <hr />
+<h2>What is people thinking about me 🧬</h2>
+
 <br />
 I really hope we can hang out well!
 Thanks for reading, and happy coding! 🚀 🌎
