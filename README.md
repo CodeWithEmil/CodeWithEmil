@@ -46,7 +46,7 @@ Here are some things you should know about me:
 <hr />
 <h2>My Works</h2>
 <p>Some of my popular creations through time</p>
-<ul></ul> #<!-- Haz una lista con los projectos que has hecho --/>
+<ul></ul>
 
 <hr />
 <h2>Technologies I've Worked With</h2>
