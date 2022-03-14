@@ -29,7 +29,7 @@ Here are some things you should know about me:
 </ul>
 
 <hr />
-<h2>What is people thinking ab</h2>
+<h2>What is people thinking abo</h2>
    <ul>
       <li>
          <h3>"Amazing for a 13 year-old"</h3><i>–Cristela, Mexico City, Mexico 🇲🇽</i>
