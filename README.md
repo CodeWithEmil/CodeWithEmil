@@ -18,14 +18,12 @@ Here are some things you should know about me:
 
 <h2>About Emil 🥑</h2>
 <ul>
-   
    <li>Two times chess state-champion</li>
    <li>+1k Instagram, +200 Twitter Audiences</li>
    <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
    <li>Constantly building and learning with useful technologies</li>
    <li>Spanish-Music Lover! (Soda Stereo, Hombres G, Los Bunkers, Zoé, Café Tacuba) 🎶</li>
    <li>+4 language-speaker</li>
-   
 </ul>
 
 <hr />
@@ -44,8 +42,10 @@ Here are some things you should know about me:
          <h3>"I think the works he has done are just awesome! Creative, simple and interactive. What else could we ask for?"</h3><i>–Martina, Sevilla, Sevilla, Spain 🇪🇸</i>
       </li>
    </ul>
+   
 <hr />
 <h2>My Works</h2>
+<p>Some of my popular creations through time</p>
 
 <br />
 I really hope we can hang out well!
