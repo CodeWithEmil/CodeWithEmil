@@ -45,7 +45,7 @@ Here are some things you should know about me:
       </li>
    </ul>
 <hr />
-<h2>What is</h2>
+<h2>What</h2>
 
 <br />
 I really hope we can hang out well!
