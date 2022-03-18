@@ -47,7 +47,7 @@ Here are some things you should know about me:
 <h2>My Works</h2>
 <p>Some of my popular creations through time</p>
 <ul>
- <li><a target="_blank" rel="noopener" href="https://soundify.net"><h3>Soundify</h3></a></li>
+ <li><a target="_blank" rel="noopener noreferrer" href="https://soundify.net"><h3>Soundify</h3></a></li>
 </ul>
 
 <hr />
