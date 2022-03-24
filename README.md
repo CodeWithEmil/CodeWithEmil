@@ -52,7 +52,7 @@ Here are some things you should know about me:
 
 <hr />
 <h2>Technologies I've Worked With</h2>
-<p>Technologi</p>
+<p>Technologie</p>
 <br />
 I really hope we can hang out well!
 Thanks for reading, and happy coding! 🚀 🌎
