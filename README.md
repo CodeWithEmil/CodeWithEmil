@@ -51,7 +51,7 @@ Here are some things you should know about me:
 </ul>
 
 <hr />
-<h2>Te</h2>
+<h2>T</h2>
 <p>Technologies I've Worked With</p>
 <br />
 I really hope we can hang out well!
