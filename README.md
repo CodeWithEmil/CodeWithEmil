@@ -51,7 +51,7 @@ Here are some things you should know about me:
 </ul>
 
 <hr />
-<h2>My Skill</h2>
+<h2>My Skills</h2>
 <p>Technologies I've Worked With</p>
 <br />
 I really hope we can hang out well!
