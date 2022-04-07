@@ -56,6 +56,7 @@ Here are some things you should know about me:
 <ul>
  <li>ReactJS</li>
  <li>HTML</li>
+ <li>
 </ul>
 <br />
 I really hope we can hang out well!
