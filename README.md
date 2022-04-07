@@ -55,7 +55,7 @@ Here are some things you should know about me:
 <p>Technologies I've Worked With</p>
 <ul>
  <li>ReactJS</li>
- <li>H</li>
+ <li>HT</li>
 </ul>
 <br />
 I really hope we can hang out well!
