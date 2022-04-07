@@ -54,13 +54,13 @@ Here are some things you should know about me:
 <h2>My Skills</h2>
 <p>Technologies I've Worked With</p>
 <ul>
- <li>
+ <li> F
  <ul>
   <li>ReactJS</li>
   <li>HTML</li>
   <li>C
  </ul>
- <li>
+ </li>
 </ul>
 <br />
 I really hope we can hang out well!
