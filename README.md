@@ -59,7 +59,7 @@ Here are some things you should know about me:
   <li>ReactJS</li>
   <li>HTML</li>
   <li>C
-  </ul>
+ </ul>
  <li>
 </ul>
 <br />
