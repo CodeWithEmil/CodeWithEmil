@@ -53,11 +53,14 @@ Here are some things you should know about me:
 <hr />
 <h2>My Skills</h2>
 <p>Technologies I've Worked With</p>
+<ul>
  <ul>
   <li>ReactJS</li>
   <li>HTML</li>
   <li>C
- </ul>
+  </ul>
+ <li>
+</ul>
 <br />
 I really hope we can hang out well!
 Thanks for reading, and happy coding! 🚀 🌎
