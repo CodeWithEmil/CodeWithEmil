@@ -54,7 +54,7 @@ Here are some things you should know about me:
 <h2>My Skills</h2>
 <p>Technologies I've Worked With</p>
 <ul>
- <li> Front-E
+ <li> Front-En
  <ul>
   <li>ReactJS</li>
   <li>HTML</li>
