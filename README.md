@@ -58,7 +58,7 @@ Here are some things you should know about me:
  <ul>
   <li>ReactJS</li>
   <li>HTML</li>
-  <li>CS
+  <li>CSS
  </ul>
  </li>
 </ul>
