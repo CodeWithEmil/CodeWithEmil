@@ -60,7 +60,7 @@ Here are some things you should know about me:
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
-  <li>CSS</li>
+  <li>CS</li>
  </ul>
  </li>
 </ul>
