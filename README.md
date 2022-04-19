@@ -61,7 +61,7 @@ Here are some things you should know about me:
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Sass</li>
-  <li>No</li>
+  <li>Nod</li>
  </ul>
  </li>
 </ul>
