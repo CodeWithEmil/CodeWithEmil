@@ -64,7 +64,7 @@ Here are some things you should know about me:
   <li>NodeJS</li>
  </ul>
  </li>
- <li> Bac
+ <li> Back
  </li>
 </ul>
 <br />
