@@ -56,8 +56,8 @@ Here are some things you should know about me:
 <ul>
    <li> Front-End
       <ul>
-  <li>ReactJS</li>
-  <li>HTML</li>
+         <li>ReactJS</li>
+         <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>Sass</li>
