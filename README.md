@@ -58,9 +58,9 @@ Here are some things you should know about me:
       <ul>
          <li>ReactJS</li>
          <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>Sass</li>
+         <li>CSS</li>
+         <li>JavaScript</li>
+         <li>Sass</li>
  </ul>
  </li>
  <li> Back-End
