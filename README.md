@@ -3,7 +3,7 @@
 
 Hey! I’m Emil (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
    <br />
-Here are some things you should know about me:d
+Here are some things you should know about me:
    <br />
    
    <ul>
@@ -22,6 +22,7 @@ Here are some things you should know about me:d
    <li>+1k Instagram, +200 Twitter Audiences</li>
    <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
    <li>Constantly building and learning with useful technologies</li>
+   <li>National Mathematics Olympiad Finalist</li>
    <li>Spanish-Music Lover! (Soda Stereo, Hombres G, Los Bunkers, Zoé, Café Tacuba) 🎶</li>
    <li>+4 language-speaker</li>
 </ul>
