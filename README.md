@@ -2,7 +2,7 @@
 
 
 Hey! I’m Emil (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
-   <br />ñ
+   <br />
 Here are some things you should know about me:
    <br />
    
