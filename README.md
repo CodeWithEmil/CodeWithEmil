@@ -5,7 +5,7 @@ Hey! I’m Emil (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
    <br />
 Here are some things you should know about me:
    <br />
-   M
+   
    <ul>
       <li>13 years old and Mexican</li>
       <li>Full Stack Web Developer</li>
