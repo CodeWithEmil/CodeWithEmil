@@ -1,13 +1,13 @@
 ![GitHub header - 1](https://user-images.githubusercontent.com/96463540/150668260-8beb10a1-e9a1-46c5-b9e3-5e453c7f13f7.png)
 
 
-Hey! I’m Emil (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
+Hey! I’m Emi (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
    <br />
 Here are some things you should know about me:
    <br />
    
    <ul>
-      <li>13 years old and Mexican</li>
+      <li>13 years ol and Mexican</li>
       <li>Full Stack Web Developer</li>
       <li>I'm an Instagram-based content creator, focused on Web Development</li>
       <li>I’m interested in coding, learning languages, and playing the guitar!</li>
@@ -16,7 +16,7 @@ Here are some things you should know about me:
 
 <hr />
 
-<h2>About Emil 🥑</h2>
+<h2>About Emil ññ🥑</h2>
 <ul>
    <li>Two times chess state-champion</li>
    <li>+2k Instagram, +300 Twitter Audiences</li>
