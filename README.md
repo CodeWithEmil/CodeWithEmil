@@ -20,7 +20,7 @@ Here are some things you should know about me:
 <ul>
    <li>Two times chess state-champion</li>
    <li>+2k Instagram, +300 Twitter Audiences</li>
-   <li>2 years of experience in web dev, +5 in technolog (robotics, programming, and support)</li>
+   <li>2 years of experience in web dev, +5 in technology (robotics, programming, and support)</li>
    <li>Constantly building and learning with useful technologies</li>
    <li>Mexican Mathematics Olympiad Finalist</li>
    <li>Spanish-Music Lover! (Soda Stereo, Hombres G, Los Bunkers, Zoé, Café Tacuba) 🎶</li>
