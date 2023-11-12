@@ -18,7 +18,7 @@ Here are some things you should know about me:
 
 <h2>About Emil 🥑</h2>
 <ul>
-   <li>Mexican Mathematics Olympiad Bronze Medal</li>
+   <li>Mexican Mathematics Olympiad Bronze Medal winner (2023)</li>
    <li>Mexican Mathematics Olympiad for Basic Education Finalist x2</li>
    <li>Two times chess state-champion</li>
    <li>+2k Instagram, +300 Twitter Audiences</li>
