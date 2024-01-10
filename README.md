@@ -3,7 +3,7 @@
 
 <h1>Emilio Nájera</h1>
 
-<p style = "font-size: 200px">Frontend Developer 🚀</p>
+<h5 style = "font-size: 200px">Frontend Developer 🚀</h5>
 
 
 Hello there and welcome! 👋
