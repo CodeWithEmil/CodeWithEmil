@@ -2,5 +2,7 @@
 
 
 <h1>Emilio Nájera</h1>
+<h2>Frontend Developer 🚀</h2>
 
-Hey! I'm Emil (<a href="https://emilionajera.site">@CodeWithEmil</a>) 👋
+
+Hello there and welcome! 👋
