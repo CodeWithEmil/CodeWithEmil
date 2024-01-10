@@ -5,5 +5,12 @@
 
 <h3 style = "font-size: 200px">Frontend Developer 🚀</h3>
 
+<br>
 
 Hello there and welcome! 👋
+
+<br>
+
+My name is Emilio Nájera, and I'm a frontend web developer and passionate programming content-creator. I'm originally from Mexico City (Mexico), and I really do love tacos!
+
+I'm leader and founder of the "CodeWithEmil" project, an Instagram account that produces and publishes high-quality programming content, specifically designed to educate, inspire and help others grow in their coding journey
