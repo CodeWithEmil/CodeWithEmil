@@ -5,14 +5,14 @@
 ## 🚀 Frontend Web Developer 
     Hello there and welcome! 🧑🏻‍💻
 
-My name is Emilio Nájera. I am 15 years old, and I'm from Mexico City, Mexico 🇲🇽. I am willing to help my community through the creation of useful projects.
+My name is Emilio Nájera! I am 15 years old, and I'm from Mexico City, Mexico 🇲🇽. I am willing to help my community through the creation of useful projects that create a positive impact on people's lives.
 
-I'm currently involved in producing high-quality content related to teaching programming in social media through my project "[CodeWithEmil](https://instagram.com/CodeWithEmil)" 🔥.
+With 3k+ audiences, I'm currently involved in producing high-quality content focused on teaching programming of all expertise levels in social media through my project "[CodeWithEmil](https://instagram.com/CodeWithEmil)" 🔥.
 
 <br>
 
 ## 🥑 About Me
-&emsp;👩‍💻 I'm currently working on building useful apps with wonderful UI.
+&emsp;🌉 I'm currently working on building useful apps with wonderful UI.
 
 &emsp;🧠 I'm currently learning about HandsOnTable data grid.
 
@@ -20,7 +20,7 @@ I'm currently involved in producing high-quality content related to teaching pro
 
 &emsp;📫 Let's connect and build an amazing community!
 
-&emsp;⚡️ Fun fact: the curls came back as soon as I started growing my hair out
+&emsp;⚡️ Fun fact: the curls that were long gone came back as soon as I started growing my hair out
 
 <br>
 
