@@ -49,15 +49,7 @@ Originally starting as an Instagram page, CodeWithEmil has now expanded to X (Tw
 <br>
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-ff6257?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiilionajera.netlify.app)
-
-[![instagram](https://img.shields.io/badge/instagram-D83F6B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithemil)
-
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilionajera)
-
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithemil)
-
-[![linktree](https://img.shields.io/badge/Linktree-2bbd53?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/codewithemil)
+[![portfolio](https://img.shields.io/badge/my_portfolio-ff6257?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiilionajera.netlify.app) &emsp; &emsp; [![instagram](https://img.shields.io/badge/instagram-D83F6B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithemil) &emsp; &emsp; [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilionajera) &emsp; &emsp; [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithemil) &emsp; &emsp; [![linktree](https://img.shields.io/badge/Linktree-2bbd53?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/codewithemil) &emsp; &emsp;
 
 <br>
 
