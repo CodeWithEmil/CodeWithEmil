@@ -5,7 +5,7 @@
 ## 🚀 Frontend Web Developer 
     Hello there and welcome! 🧑🏻‍💻
 
-My name is Emilio Nájera. I am 15 years old, and I'm from Mexico City, Mexico. I'm currently involved in producing content related to programming in social media through my project "CodeWithEmil".
+My name is Emilio Nájera. I am 15 years old, and I'm from Mexico City, Mexico. I am willing to help my community through the creation of useful projects. I'm currently involved in producing high-quality content related to teaching programming in social media through my project "CodeWithEmil" 🔥.
 
 <br>
 
