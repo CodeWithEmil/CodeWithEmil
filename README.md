@@ -12,7 +12,7 @@ Starting in 2021, I have been involved in producing high-quality content focused
 <br>
 
 ## 🥑 About Me
-&emsp;🌉 I'm currently working on building useful apps with wonderful UI.
+&emsp;🌉 I'm working on building useful and amazing apps with wonderful UI.
 
 &emsp;🧠 I'm currently learning about HandsOnTable data grid.
 
