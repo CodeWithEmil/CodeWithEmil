@@ -1,4 +1,4 @@
-![GitHub header - 1](https://user-images.githubusercontent.com/96463550/150668260-8beb10a1-e9a1-46c5-b9e3-5e453c7f13f7.png)
+![GitHub header - 1](https://github.com/CodeWithEmil/CodeWithEmil/assets/96463540/e181b1ac-5a2c-4e7c-8904-7f1324f7d354)
 
 <br>
 
