@@ -1,4 +1,5 @@
-![GitHub header - 1](https://github.com/CodeWithEmil/CodeWithEmil/assets/96463540/e181b1ac-5a2c-4e7c-8904-7f1324f7d354)
+
+![GitHub header - 3](https://github.com/CodeWithEmil/CodeWithEmil/assets/96463540/85f541d0-0fe3-41d2-9e04-b3637a391329)
 
 <br>
 
