@@ -16,11 +16,11 @@ Starting in 2021, I have been involved in producing high-quality content focused
 
 &emsp;🧠 I'm currently learning about HandsOnTable data grid.
 
-&emsp;💬 Ask me about the MERN stack!
+&emsp;💬 Ask me about the MERN stack.
 
 &emsp;📫 Let's connect and build an amazing community!
 
-&emsp;⚡️ Fun fact: the curls that were long gone came back as soon as I started growing my hair out
+&emsp;⚡️ Fun fact: my hair's length doubles whenever it's wet!
 
 <br>
 
