@@ -41,7 +41,7 @@ CodeWithEmil is a social-media based project focused on educating people by prod
 
 The mission behind CodeWithEmil has always been helping people grow in their coding journey; because of that I'm willing to provide followers with posts involving concepts, tips, tricks, projects, guides, etc. that encompass all levels of expertise in the coding community.
 
-Originally starting as an Instagram page, CodeWithEmil has now expanded to X (Twitter), Facebook, and GitHub, holding around... 
+Originally starting as an Instagram page, CodeWithEmil has now expanded to X (Twitter), LinkedIn, Facebook, and GitHub, holding around... 
 
 ```bash
   ...3000+ students and enjoyers in all 
@@ -54,3 +54,5 @@ Originally starting as an Instagram page, CodeWithEmil has now expanded to X (Tw
 &emsp; &emsp; [![portfolio](https://img.shields.io/badge/my_portfolio-ff6257?style=for-the-badge&logo=ko-fi&logoColor=white)](https://emiilionajera.netlify.app) &emsp; &emsp; [![instagram](https://img.shields.io/badge/instagram-D83F6B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/codewithemil) &emsp; &emsp; [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emilionajera) &emsp; &emsp; [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codewithemil) &emsp; &emsp; [![linktree](https://img.shields.io/badge/Linktree-2bbd53?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/codewithemil) &emsp; &emsp;
 
 <br>
+
+# ¡Viva México! 🇲🇽
