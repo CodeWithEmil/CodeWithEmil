@@ -10,15 +10,15 @@ My name is Emilio Nájera. I am 15 years old, and I'm from Mexico City, Mexico. 
 <br>
 
 ## 🥑 About Me
-  👩‍💻 I'm currently working on building useful apps with wonderful UI.
+&emsp;👩‍💻 I'm currently working on building useful apps with wonderful UI.
 
-  🧠 I'm currently learning about HandsOnTable data grid.
+&emsp;🧠 I'm currently learning about HandsOnTable data grid.
 
-💬 Ask me about the MERN stack!
+&emsp;💬 Ask me about the MERN stack!
 
-📫 Let's connect and build an amazing community!
+&emsp;📫 Let's connect and build an amazing community!
 
-⚡️ Fun fact: the curls came back as soon as I started growing my hair out
+&emsp;⚡️ Fun fact: the curls came back as soon as I started growing my hair out
 
 <br>
 
