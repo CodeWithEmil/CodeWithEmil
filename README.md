@@ -2,7 +2,7 @@
 
 <br>
 
-## 🚀 Frontend Web Developer 
+## 🚀 Frontend Web Develope 
     Hello there and welcome! 🧑🏻‍💻
 
 My name is Emilio Nájera! I am 15 years old, and I'm from Mexico City, Mexico 🇲🇽. I am willing to help my community through the creation of useful projects that create a positive impact on people's lives.
